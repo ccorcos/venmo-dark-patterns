@@ -64,7 +64,7 @@ The choice in design here has had huge consequences for me. Just check out this 
 
 ![](./images/large payment.PNG)
 
-![](./images/3% charge on a large payment.PNG)
+![](./images/3% charge on a large payment.png)
 
 All the while, these fees were completely avoidable! 
 
