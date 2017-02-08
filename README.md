@@ -58,9 +58,9 @@ And when I go to the bank details page, I have to select this as the preferred p
 
 So now I'm no longer being charged for transfering money. But the question is why isn't Venmo displaying the fees withing the application? Why aren't they confirming with you that you accept the fee when you're making a payment? And why aren't they pulling money out of your bank account by default, avoiding the fee entirely?
 
-It's hard for me to refrain from a very cynical perspective here. But one thing is for sure -- this design is decieving their users into paying fees that they are entirely unaware of. I've been using Venmo for TODO years. I downloaded my entire venmo history and it turns out, I've paid a total of TODO in fees that I was completely unaware of!
+It's hard for me to refrain from a very cynical perspective here. But one thing is for sure -- this design is decieving their users into paying fees that they are entirely unaware of. I've been using Venmo for 3 years. I downloaded my entire venmo history and it turns out, I've paid a total of $266.42 in fees that I was completely unaware of. That's a steep price for a "free" app.
 
-The choice in design here has had HUGE consequences for me. Just check out this transaction and the amount of money was was *actually charged*.
+The choice in design here has had huge consequences for me. Just check out this transaction and the amount of money was was *actually charged*.
 
 ![](./images/large payment.PNG)
 
@@ -72,6 +72,4 @@ All the while, these fees were completely avoidable!
 
 As Harry Brignull mentioned in his talk, tech companies these days are very data-driven. They A/B test every design change and look at impacts on their analytics. So if they change their design to present a modal that confirms with the user the fee for their payment, or if they display the actual amount charged in the user's transaction list, do you think their conversion statistics are going to go up? Certainly not! But that's the point about *dark patterns* -- they're easy for a company to fall prey to.
 
-I remain optimistic that Venmo is a great company full of good people who want to do the right thing. But their customer support has been entirely unhelpful or sympathetic. So here's my call to action: first, open up your Venmo settings and make sure you aren't getting charged that fee. If you are, you can go HERE to see how much you've paid in Venmo fees. You can go HERE to file a support ticket. Link to this article and quote how much you feel they owe you for their deception. And fill out this form HERE so we can join forces and hold them accountable to honest and transparent design. Discussion on Github.
-
-266.4225
+I remain optimistic that Venmo is a great company full of good people who want to do the right thing. But their customer support has been entirely unhelpful or sympathetic. So here's my call to action: first, open up your Venmo settings and make sure you aren't getting charged that fee. If you are, you can go [here](https://github.com/ccorcos/venmo-dark-patterns/blob/master/FEES.md) to figure out how much you've paid in Venmo fees. You can go [here](https://help.venmo.com/hc/en-us/requests/new) to file a complaint ticket with Venmo -- link to this article and quote how much their deception has cost you. And fill out this form [here](https://chet1.typeform.com/to/ZbYmxy) so we can join forces and hold them accountable to honest and transparent design. For any questions, feel free to [create an Issue on Github](https://github.com/ccorcos/venmo-dark-patterns/issues/new).
