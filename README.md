@@ -38,7 +38,7 @@ You see, Venmo is trying to be this social app kind of thing so my friends can a
 
 So all if fine an dandy, but then you might notice some weird discrpancies on your credit card bill. And in fact, if you go online to view your transaction history, you'll notice that you've been charged a 3% fee.
 
-![](./images/3% charge shown on venmo.com.png)
+![](./images/charge shown on venmo.com.png)
 
 But **I was never notified of this fee when making the payment**. Furthermore, **this fee is reflected nowhere within the app itself**. This primarily a mobile application -- few people who use Venmo ever even login online. So the fact that these fees are being charged without notifying you and aren't even being reflected in your transaction list is *pure evil*.
 
@@ -64,7 +64,7 @@ The choice in design here has had huge consequences for me. Just check out this 
 
 ![](./images/large payment.PNG)
 
-![](./images/3% charge on a large payment.png)
+![](./images/charge on a large payment.png)
 
 All the while, these fees were completely avoidable! 
 
